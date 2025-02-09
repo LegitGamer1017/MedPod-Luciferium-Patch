@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>MedPod Luciferium Patch</name>
+	<author>LegitGamer1017</author>
+	<packageId>legitgamer1017.medpodluciferiumpatch</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2900674713</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependenciesByVersion>
+		<v1.4>
+			<li>
+				<packageId>sumghai.medpod</packageId>
+				<displayName>MedPod</displayName>
+				<downloadUrl>https://github.com/sumghai/MedPod</downloadUrl>
+				<steamWorkshopUrl>steam://url/CommunityFilePage/2153065191</steamWorkshopUrl>
+			</li>
+		</v1.4>
+		<v1.5>
+			<li>
+				<packageId>sumghai.medpod</packageId>
+				<displayName>MedPod</displayName>
+				<downloadUrl>https://github.com/sumghai/MedPod</downloadUrl>
+				<steamWorkshopUrl>steam://url/CommunityFilePage/2153065191</steamWorkshopUrl>
+			</li>
+		</v1.5>
+	</modDependenciesByVersion>
+	<loadAfter>
+		<li>sumghai.medpod</li>
+		<li>auxiliusm.luciferiumplus</li>
+		<li>Mlie.ReconAndDiscovery</li>
+	</loadAfter>
+	<description>A patch for MedPod so that MedPods do not remove Luciferium from pawns. Intended for Luciferium addicts and abusers.</description>
+</ModMetaData>
